@@ -1,0 +1,17 @@
+.dsc-start-page-section {
+    padding: 25px 40px;
+}
+
+.dsc-start-page-description-container {
+    margin-bottom: 25px;
+}
+
+.dsc-start-page-section h2 {
+    font-size: 48px;
+    color: var(--dsc-font-color-secundary);
+}
+
+.dsc-start-page-section h3 {
+    font-size: 24px;
+    color: var(--dsc-font-color-terciary);
+}

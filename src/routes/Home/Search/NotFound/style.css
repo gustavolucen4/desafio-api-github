@@ -1,0 +1,5 @@
+.dsc-not-found-container h3 {
+    color: var(--dsc-font-color-secundary);
+    font-size: 38px;
+    font-weight: 500;
+}
